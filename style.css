@@ -1,3 +1,13 @@
 * {
-    background-color: #ECF9FF;
+    background-color: #F16767;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.colour {
+    color: #F5EAEA;
+}
+
+img {
+    height: auto;
+    width: 500px;
 }
